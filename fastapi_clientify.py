@@ -1,3 +1,3 @@
-"""An amazing sample package!"""
+"""FastAPI Clientify - Reduce server load using Local Storage"""
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
