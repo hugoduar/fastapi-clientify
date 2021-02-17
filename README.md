@@ -1,6 +1,6 @@
 # FastAPI Clientify 
 
-Compare your requests don't run the same tasks more than once on your server. 
+Caches your requests so you don't run your tasks twice. 
 
 ## Installation
 
